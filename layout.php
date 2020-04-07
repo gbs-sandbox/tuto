@@ -56,7 +56,7 @@
                             <ul class="menu clearfix">
                                 <li class="inline-block <?= $page == 'home' ? 'active' : ''?>">
                                     <a href="index.php">
-                                        Indiega
+                                        Indiega Game
                                     </a>
                                 </li>
                                 <li class="inline-block <?= $page == 'game' ? 'active' : ''?>">
