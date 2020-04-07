@@ -6,7 +6,9 @@
             "email": "nicolaslechenic@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+       "php": "^7.3" 
+    },
     "require-dev": {
         "peridot-php/leo": "^1.6",
         "peridot-php/peridot": "^1.19",
